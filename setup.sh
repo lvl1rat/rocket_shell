@@ -19,7 +19,8 @@ while getopts 'iu' OPTION; do
 		sleep 1
 		tput rc; tput el
 		echo
-		echo "Maunally source the ~/.bashrc file"
+		echo "Note: Maunally source the ~/.bashrc file"
+		echo "Run 'source ~./bashrc'"
 		echo
 		echo "-------Setup Finished.-------"
 		echo
