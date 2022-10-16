@@ -2,7 +2,7 @@
 
 
 
-![rocket_gif](rocket_gif.gif)
+![rocket_gif](rocket.gif)
 
 ## ---Description---
 
