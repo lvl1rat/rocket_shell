@@ -2,7 +2,7 @@
 
 
 
-![foguete_terminal](C:\Users\Bruno\Pictures\GIF\foguete_terminal.gif)
+![rocket_gif](rocket_gif.gif)
 
 ## ---Description---
 
