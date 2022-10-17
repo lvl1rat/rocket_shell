@@ -59,10 +59,10 @@ $./setup.sh -u
 You might want to delete the repo folder, if so, keep a copy of the setup.sh for a future uninstalling or do it manually as follows:
 
 ```
-	$unalias rocket
+$unalias rocket
 ```
 ```
-	$rm -f ~/.rocket.sh
+$rm -f ~/.rocket.sh
 ```
 
 ### ---Note---
