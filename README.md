@@ -16,7 +16,7 @@ Clone it into your linux OS:
 $git clone https://github.com/lvl1rat/rocket_shell.git "name_of_your_choosing"
 ```
 
-Navigate do the repo folder, add executable permissions to the setup.sh followed by the **-i** [install] flag:
+Navigate to the repo folder, add executable permissions to the setup.sh followed by the **-i** [install] flag:
 
 ```
 $chmod +x setup.sh
