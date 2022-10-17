@@ -20,6 +20,8 @@ Navigate to the repo folder, add an executable permission to the setup.sh follow
 
 ```
 $chmod +x setup.sh
+```
+```
 $./setup.sh -i
 ```
 
@@ -33,8 +35,9 @@ Note: Check if your aliases list was successfully updated with a **rocket** comm
 
 ```
 $alias
-
-Added line: "alias rocket='~/.rocket.sh'"
+```
+```
+Added line: alias rocket='~/.rocket.sh'
 ```
 
 ## ---Usage---
@@ -57,6 +60,8 @@ You might want to delete the repo folder, if so, keep a copy of the setup.sh for
 
 ```
 	$unalias rocket
+```
+```
 	$rm -f ~/.rocket.sh
 ```
 
